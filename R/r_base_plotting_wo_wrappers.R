@@ -14,6 +14,7 @@ plot(x = 0:10,
      ylab = "y-axis",
      main = "my plot")
 
+
 # The plot() function above is really just a wrapper that calls an array of lower level functions.
 
 plot.new()
